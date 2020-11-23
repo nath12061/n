@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="consor" id="0x7f020000" />
+    <public type="mipmap" name="ic_launcher" id="0x7f030000" />
+    <public type="layout" name="activity_main" id="0x7f040000" />
+    <public type="layout" name="allatori" id="0x7f040001" />
+    <public type="layout" name="hfdhfxhgfdhg" id="0x7f040002" />
+    <public type="layout" name="webview" id="0x7f040003" />
+    <public type="xml" name="device_admin" id="0x7f050000" />
+    <public type="xml" name="device_admin_sample" id="0x7f050001" />
+    <public type="xml" name="policies" id="0x7f050002" />
+    <public type="dimen" name="activity_horizontal_margin" id="0x7f060000" />
+    <public type="dimen" name="activity_vertical_margin" id="0x7f060001" />
+    <public type="color" name="colorAccent" id="0x7f070000" />
+    <public type="color" name="colorPrimary" id="0x7f070001" />
+    <public type="color" name="colorPrimaryDark" id="0x7f070002" />
+    <public type="id" name="tv" id="0x7f080000" />
+    <public type="id" name="relative1" id="0x7f080001" />
+    <public type="id" name="img1" id="0x7f080002" />
+    <public type="id" name="my_floating_view" id="0x7f080003" />
+    <public type="id" name="textView1" id="0x7f080004" />
+    <public type="id" name="webView" id="0x7f080005" />
+    <public type="string" name="app_name" id="0x7f090000" />
+    <public type="string" name="msg1Running" id="0x7f090001" />
+    <public type="string" name="sendText" id="0x7f090002" />
+</resources>

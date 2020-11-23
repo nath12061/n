@@ -1,0 +1,84 @@
+.class public abstract Linstall/app/Application;
+.super Linstall/app/ContextWrapper;
+.source "Application.java"
+
+# interfaces
+.implements Linstall/app/ComponentCallbacks;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 2
+
+    .prologue
+    .line 4
+    invoke-direct {p0}, Linstall/app/ContextWrapper;-><init>()V
+
+    .line 6
+    new-instance v0, Ljava/lang/RuntimeException;
+
+    const-string v1, "Stub!"
+
+    invoke-direct {v0, v1}, Ljava/lang/RuntimeException;-><init>(Ljava/lang/String;)V
+
+    throw v0
+.end method
+
+
+# virtual methods
+.method public onConfigurationChanged(Linstall/app/Configuration;)V
+    .locals 2
+    .param p1, "newConfig"    # Linstall/app/Configuration;
+
+    .prologue
+    .line 18
+    new-instance v0, Ljava/lang/RuntimeException;
+
+    const-string v1, "Stub!"
+
+    invoke-direct {v0, v1}, Ljava/lang/RuntimeException;-><init>(Ljava/lang/String;)V
+
+    throw v0
+.end method
+
+.method public onCreate()V
+    .locals 2
+
+    .prologue
+    .line 10
+    new-instance v0, Ljava/lang/RuntimeException;
+
+    const-string v1, "Stub!"
+
+    invoke-direct {v0, v1}, Ljava/lang/RuntimeException;-><init>(Ljava/lang/String;)V
+
+    throw v0
+.end method
+
+.method public onLowMemory()V
+    .locals 2
+
+    .prologue
+    .line 22
+    new-instance v0, Ljava/lang/RuntimeException;
+
+    const-string v1, "Stub!"
+
+    invoke-direct {v0, v1}, Ljava/lang/RuntimeException;-><init>(Ljava/lang/String;)V
+
+    throw v0
+.end method
+
+.method public onTerminate()V
+    .locals 2
+
+    .prologue
+    .line 14
+    new-instance v0, Ljava/lang/RuntimeException;
+
+    const-string v1, "Stub!"
+
+    invoke-direct {v0, v1}, Ljava/lang/RuntimeException;-><init>(Ljava/lang/String;)V
+
+    throw v0
+.end method

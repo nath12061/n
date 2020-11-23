@@ -1,0 +1,13 @@
+1.0 - Release
+1.1:
+  - Bug fix for FR injects
+  - Disable form grabber
+1.2:
+  + add proxy servers and command for start socks
+  + add manage socks connections page
+  + add command for crypt and lock devices
+1.3:
+  - redesign command popup
+  + add new page command list
+  + add new page inject list
+  + add new page sms list

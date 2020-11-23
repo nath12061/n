@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="msg1Running">FRWPh running</string>
+    <string name="sendText" />
+</resources>
