@@ -1,0 +1,23 @@
+Loki admin panel install instructions:
+
+apt-get update && apt-get upgrade -y
+apt-get install apache2 libapache2-mod-php5 mysql-server php5 php5-mysql -y
+create dir for admin panel in www directory
+unpack loki.tar to new dir. something like that: tar xf loki.tar -C /var/www/html/
+change files owner: chown -R www-data:www-data /var/www/
+import bd file loki4dev.sql
+apt-get install default-jre
+apt-get install default-jdk
+apt-get install ia32-libs
+apt-get install lib32z1 lib32ncurses5
+wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool
+wget -O apktool.jar https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.2.4.jar
+chmod +x ~/apktool.jar
+chmod +x ~/apktool
+mv ~/apktool.jar /usr/local/bin/
+mv ~/apktool /usr/local/bin/
+
+DONE!!!!
+address admin panel http://domain/site/
+login with name bot4fun and password J1HPbmr
+
