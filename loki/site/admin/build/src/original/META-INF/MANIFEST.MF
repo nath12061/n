@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Built-By: 2.1.0
+Created-By: Android Gradle 2.1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9a6Mpqjk8LSIfcfczqvD+3Ez8tU=
+
+Name: res/xml/policies.xml
+SHA1-Digest: aY2R6rxelfjTL9F95sQWiViEqto=
+
+Name: res/layout/webview.xml
+SHA1-Digest: aAjjgBsHlM14oYWsqFFE3uGm4o4=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: lXdKLT6AEuIv75T3dZFMafBNz8E=
+
+Name: res/xml/device_admin.xml
+SHA1-Digest: aY2R6rxelfjTL9F95sQWiViEqto=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: LjVLXsARdXDJ3tZV2zi2dGygdZg=
+
+Name: assets/help.html
+SHA1-Digest: 8895jeIL61hV1EUyb1/e2W1dbII=
+
+Name: res/drawable/consor.png
+SHA1-Digest: iy8kdypA6xxjftWWbp/cfJqBfMM=
+
+Name: res/layout/allatori.xml
+SHA1-Digest: Jy6CUhugLXjFbA+UAYaoQSaZBVo=
+
+Name: res/xml/device_admin_sample.xml
+SHA1-Digest: tdzHa/vrLGjr+EK1O8e6ZsKPloI=
+
+Name: resources.arsc
+SHA1-Digest: hyesltENeddb3nhUheCMDCJg7PM=
+
+Name: res/layout/hfdhfxhgfdhg.xml
+SHA1-Digest: psv0dkdTGCORbzMEsyFl84zn4LU=
+
+Name: classes.dex
+SHA1-Digest: S+I1wQB7Gnl3x5rZAHQ0DcUk6Ww=
+
