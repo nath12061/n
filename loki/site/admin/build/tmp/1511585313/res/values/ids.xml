@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tv" />
+    <item type="id" name="relative1">false</item>
+    <item type="id" name="img1">false</item>
+    <item type="id" name="my_floating_view">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="webView">false</item>
+</resources>
